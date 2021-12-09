@@ -40,7 +40,7 @@ let calculateNumbers = function (x, y, z) {
     else return numb1 * numb2;
 }
 
-console.log(calculateNumbers('1', '2', '+'));
-console.log(calculateNumbers('1', '2', '-'));
-console.log(calculateNumbers('1', '2', '*'));
-console.log(calculateNumbers('1', '2', '/'));
+console.log(calculateNumbers('2', '2', '+'));
+console.log(calculateNumbers('2', '2', '-'));
+console.log(calculateNumbers('2', '2', '*'));
+console.log(calculateNumbers('2', '2', '/'));
