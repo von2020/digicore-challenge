@@ -10,13 +10,13 @@
     step 7: Instantiate the function generating numbers in this function2 passing parameters y into it, then assign the function to a variable2
     step 8: If z = "-" , then return the value of variable1 - variable2
     step 9: If z = "+" , then return the value of variable1 + variable2
-    step 10: If z = "*", then return the value of variable1 * variable2
+    step 10:If z = "*", then return the value of variable1 * variable2
     step 11:If z = "/", then return the value of variable1 / variable2
-
-    Step 6: Stop
+    step 12:Instantiate calculateString
+    Step 13: Stop
 
  *  */
-
+//ALGORITHM END
 
 
 
@@ -45,3 +45,4 @@ console.log(calculateString('2', '2', '+'));
 console.log(calculateString('2', '2', '-'));
 console.log(calculateString('2', '2', '*'));
 console.log(calculateString('2', '2', '/'));
+//CODE END
